@@ -1,25 +1,26 @@
 
+
 @media (max-width: 739px) {
-	/* Menu */
+    /* Menu */
+    @media (max-width: 739px) {
+        .menu {
+            text-align: center;
+        }
+        a.menu-logo {
+            float: none;
+            margin: 0 auto;
+        }
+        .menu-nav {
+            float: none;
+            clear: both;
+        }
 
-    .menu {
-		text-align: center;
-	}
-	a.menu-logo {
-		float: none;
-		margin: 0 auto;
-	}
-	.menu-nav {
-		float: none;
-		clear: both;
-	}
-    /* Intro */
-
-    .intro {
-        padding: 60px 0;
+        /* Intro */
+        .intro {
+            padding: 60px 0;
+        }
     }
-}
-
+    
 
 
 
