@@ -2,7 +2,6 @@
 
 @media (max-width: 739px) {
     /* Menu */
-    @media (max-width: 739px) {
         .menu {
             text-align: center;
         }
@@ -19,7 +18,17 @@
         .intro {
             padding: 60px 0;
         }
-    }
+
+        /* Sobre */
+        .sobre-container {
+            max-width: 300px;
+        }
+        .sobre-item {
+            width: 300px;
+            margin: 0 auto;
+        }
+
+
     
 
 
