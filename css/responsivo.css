@@ -1,7 +1,8 @@
-/* Menu */
 
 @media (max-width: 739px) {
-	.menu {
+	/* Menu */
+
+    .menu {
 		text-align: center;
 	}
 	a.menu-logo {
@@ -12,4 +13,13 @@
 		float: none;
 		clear: both;
 	}
+    /* Intro */
+
+    .intro {
+        padding: 60px 0;
+    }
 }
+
+
+
+
