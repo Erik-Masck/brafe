@@ -22,6 +22,14 @@
 	.locais-item > div, .locais-item img {
 		width: 340px;
 	}
+
+    /* Assine */
+    .assine-container {
+		max-width: 720px;
+	}
+	.assine-info, .assine form, .assine input {
+		width: 340px;
+	}
 }
 
 @media (max-width: 739px) {
@@ -67,6 +75,15 @@
         .locais-item > div, .locais-item img {
             width: 300px;
             margin: 0px;
+        }
+
+        /* Assine */
+        .assine-container {
+            max-width: 300px;
+        }
+        .assine-info, .assine form, .assine input {
+            width: 300px;
+            margin: 10px 0 0 0;
         }
     }
     
