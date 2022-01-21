@@ -14,6 +14,14 @@
 	.produtos-item {
 		width: 220px;
 	}
+
+    /* Locais */
+    .locais {
+		max-width: 720px;
+	}
+	.locais-item > div, .locais-item img {
+		width: 340px;
+	}
 }
 
 @media (max-width: 739px) {
@@ -50,6 +58,15 @@
         }
         .produtos-item {
             margin: 0 auto 20px auto;
+        }
+
+        /* Locais */
+        .locais {
+            max-width: 300px;
+        }
+        .locais-item > div, .locais-item img {
+            width: 300px;
+            margin: 0px;
         }
     }
     
