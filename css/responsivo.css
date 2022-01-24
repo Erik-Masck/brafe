@@ -85,5 +85,17 @@
             width: 300px;
             margin: 10px 0 0 0;
         }
+        .footer-container {
+            max-width: 300px;
+        }
+        .footer p {
+            float: none;
+            margin: 0px;
+        }
+        .footer img {
+            float: none;
+            margin: 20px 0;
+        }
     }
+    
     
